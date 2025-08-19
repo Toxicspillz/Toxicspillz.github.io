@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/Mechanics.png");
 		background-size: auto, cover;
 		background-attachment: fixed, fixed;
 		background-position: center, center;
@@ -3409,7 +3409,7 @@ input, select, textarea {
 			}
 
 		#banner h2 {
-			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
+			-moz-transition: opacity 0.3s ease, -moz-transform 0.3s ease, -moz-filter 0.25s ease;
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
 			-ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease, -ms-filter 0.25s ease;
 			transition: opacity 0.5s ease, transform 0.5s ease, filter 0.25s ease;
@@ -3417,10 +3417,10 @@ input, select, textarea {
 			-webkit-transform: translateX(0);
 			-ms-transform: translateX(0);
 			transform: translateX(0);
-			-moz-transition-delay: 0.65s;
-			-webkit-transition-delay: 0.65s;
-			-ms-transition-delay: 0.65s;
-			transition-delay: 0.65s;
+			-moz-transition-delay: 0.35s;
+			-webkit-transition-delay: 0.35s;
+			-ms-transition-delay: 0.35s;
+			transition-delay: 0.35s;
 			-moz-filter: blur(0);
 			-webkit-filter: blur(0);
 			-ms-filter: blur(0);
